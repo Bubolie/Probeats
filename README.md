@@ -1,4 +1,4 @@
 # Probeats
-Fichier à ouvrir sur l'outils de maquettage FIGMA.
+Fichier à ouvrir sur l'outil de maquettage FIGMA.
 
 Tous droits réservés
